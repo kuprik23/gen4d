@@ -1,0 +1,1 @@
+pip install Flask Flask-SocketIO Flask-SQLAlchemy Flask-Login eventlet
